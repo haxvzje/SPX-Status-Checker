@@ -4,11 +4,19 @@ for the purpose of learning kotlin\
 don't ask to update @@
 
 ### Features
-- Support tracking multiple IDs at the same time ( ✓)
-- Complete and accurate results ( ✓)
-- Automatic duplicate detection (✗) (soon :tm:)
+- Support tracking multiple IDs at the same time (✓)
+- Complete and accurate results (✓)
+- Automatic duplicate detection (✓)
+- Colorful terminal (✓)
+
 
 etc...
+
+### Run & Build
+Usage ``java -jar spxstatuschecker.jar`` -> to run\
+\
+JDK: ``8``\
+Gradlew Project
 ## Badges
 
 good to work
