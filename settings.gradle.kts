@@ -1,2 +1,2 @@
-rootProject.name = "HttpProxyServer"
+rootProject.name = "SPXStatusChecker"
 

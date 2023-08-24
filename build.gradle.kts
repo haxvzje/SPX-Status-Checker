@@ -30,5 +30,5 @@ tasks.withType<KotlinCompile> {
 }
 
 application {
-    mainClass.set("MainKt")
+    mainClass.set("baziki.spx.MainKt")
 }

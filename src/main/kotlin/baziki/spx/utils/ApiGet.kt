@@ -17,7 +17,6 @@ class ApiGet {
     private val apiKey = "i7v35a0u-ftsr-iaqa-fppf-naq1yys6x70u"
 
     // Class function
-    @NotNull
     fun createData(id: String): JsonObject? {
         val apiUrl = "https://api.trackingmore.com/v4/trackings/create"
 
@@ -65,7 +64,6 @@ class ApiGet {
         return null
     }
 
-    @NotNull
     fun getData(id: String): JsonObject? {
         val apiUrl = "https://api.trackingmore.com/v4/trackings/get"
 
